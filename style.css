@@ -157,12 +157,7 @@ p{
 	justify-content: space-between;
 
 }
-.row1{
-	margin-top: 5%;
-	display: inline-flex;
-	justify-content: space-between;
 
-}
 .course-col{
 	flex-basis: 31%;
 	background: #fff3f3;
